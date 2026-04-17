@@ -37,7 +37,7 @@
 
 - Several model specifications were tested to balance accuracy and interpretability. Log-transformation was applied to stabilize variance and allow elasticity interpretation of coefficients.
 
-<img width="676" alt="image" src="https://github.com/harleytran1902/Retail-Sales-Promotion-Effectiveness-Modelling-//71bdcfaa6e61c0668e94bb4d855cde233b54e1ff/Model%20Comparison.jpeg">
+<img width="676" alt="image" src="https://github.com/harleytran1902/Retail-Sales-Promotion-Effectiveness-Modelling-/raw/71bdcfaa6e61c0668e94bb4d855cde233b54e1ff/Model%20Comparison.jpeg">
 
 - To further account for differences between retailers, mixed-effects models were considered, allowing promotion effects to vary across chains. Model comparison was performed using goodness-of-fit criteria to select the most appropriate specification.
 
