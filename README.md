@@ -2,6 +2,9 @@
 #### Python • R • Regression Modelling • Panel Data Analysis
 
 ## 1. Project Summary
+- Retail brands often rely on heavy discounting to drive sales, but this can erode margins and create inconsistent performance across retailers.
+- This project analyses pricing and promotion effectiveness to identify which strategies truly drive sales and how they should be optimised across different retail chains.
+
 - This project explores how pricing and promotional activities influence product sales using multi-brand retail data collected across several supermarket chains over multiple years.
 - The objective is to understand which marketing instruments are most effective, how sales respond to price changes, and whether promotional performance differs across retailers.
 - Instead of focusing only on descriptive statistics, the project applies regression modeling and panel data techniques to measure the impact of marketing actions on sales and to provide data-driven recommendations for brand management.
@@ -56,6 +59,19 @@
 - This project shows how statistical modeling can be used to understand the impact of marketing decisions on sales performance. By combining data exploration, regression analysis, and panel data methods, it is possible to identify which promotional strategies are most effective and how they should be adapted across different retailers.
 
 - The results highlight the importance of considering both price sensitivity and store heterogeneity when designing marketing strategies, as well as the need to account for structural changes in the market over time.
+
+**Key Note:**
+- Pricing and promotion decisions should be tailored by retailer rather than applied uniformly.
+- Discount-driven strategies can boost short-term sales but must be balanced against profitability.
+- Data-driven pricing strategies can significantly improve both sales performance and marketing efficiency.
+
+
+## 7. Business Recommendations
+- Avoid excessive discounting as a primary growth strategy → focus on targeted promotions.
+- Use combined promotion strategies (display + advertising) for maximum effectiveness.
+- Adjust pricing and promotion strategies by retailer, as effectiveness varies significantly across chains.
+- Continuously monitor price elasticity to optimise pricing decisions.
+
 
 
 
